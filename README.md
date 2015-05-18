@@ -9,4 +9,4 @@ In terminal, run the following command using your project's file path:
 <pre><code>python offensive.py ~/Documents/myproject/classes</code></pre>
 
 ## Issues
-- Currently does not take into account NSObject method overrides such as `-description`, -`isEquals`, etc.
+- None
