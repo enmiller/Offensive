@@ -39,6 +39,7 @@ for path, subfolders, files in os.walk(foldername):
             f.close()
         
 if len(offending_classes) > 0:
+    offending_classes.sort()
     for classname in offending_classes:
         print classname
 else:
