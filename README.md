@@ -8,5 +8,7 @@ In terminal, run the following command using your project's file path:
 
 <pre><code>python offensive.py ~/Documents/myproject/classes</code></pre>
 
-## Issues
-- None
+## Notes
+This script was inspired by an awesome video on why less is more when writing code.  A very insightful [video](https://youtu.be/o9pEzgHorH0 "video").
+
+And a thanks to [larsacus](https://github.com/larsacus) for helping with the script.
